@@ -20,4 +20,4 @@ go build .
 ./prioritize
 ```
 
-**NOTE: The output file (priortize-transactions.txt) must be deleted first before you can successfully run the application.  Otherwise, the program will panic.**
+**NOTE: The output file (priortized-transactions.txt) must be deleted first before you can successfully run the application.  Otherwise, the program will panic.**
