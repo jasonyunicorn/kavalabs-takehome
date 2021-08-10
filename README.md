@@ -1,6 +1,6 @@
 ## Mempool Takehome Assignment
 
-This is my solution for my takehome assignment for Kava Labs.  It is a simple implementation of a (Mempool)[https://www.blocknative.com/blog/mempool-intro].
+This is my solution for my takehome assignment for Kava Labs.  It is a simple implementation of a [Mempool](https://www.blocknative.com/blog/mempool-intro).
 
 ### Dependencies
 
