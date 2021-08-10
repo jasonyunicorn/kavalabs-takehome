@@ -8,7 +8,7 @@ import (
 
 // Mempool is a data structure used to prioritize transactions by fee
 type Mempool struct {
-	// maximum size of transactions (also used as the size of the buffer)
+	// maximum size of transactions to store
 	maxSize int
 
 	// slice of (prioritized) transactions
